@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="popu_backgrounp">#333333</color>
+    <color name="popu_view_line">#909090</color>
+    <color name="popu_transfer">#00000000</color>
+</resources>
